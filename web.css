@@ -50,7 +50,7 @@ p{
     text-emphasis: none;
 }
 custom-button{
-    background-color: #656ee6;
+    background-color: #a1cadd;
             border: none;
             color: white;
             padding: 15px 32px;
@@ -64,6 +64,3 @@ custom-button{
             transition: background-color 0.3s;
             
 }
-
-
-
